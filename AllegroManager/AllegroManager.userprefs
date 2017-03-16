@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F750C3FD-6284-4AE0-9A5A-BDC275DA5E4A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AllegroManager/Web References/webapi.allegro.pl/Reference.cs">
+    <Files>
+      <File FileName="AllegroManager/Program.cs" Line="29" Column="1" />
+      <File FileName="AllegroManager/UserData.cs" Line="106" Column="33" />
+      <File FileName="AllegroManager/DataOperations.cs" Line="12" Column="18" />
+      <File FileName="AllegroManager/Web References/webapi.allegro.pl/Reference.cs" Line="914" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AllegroManager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

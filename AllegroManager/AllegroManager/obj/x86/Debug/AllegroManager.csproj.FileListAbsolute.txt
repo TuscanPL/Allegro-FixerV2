@@ -1,0 +1,4 @@
+/Users/mateuszdrabowicz/Projects/AllegroManager/AllegroManager/bin/Debug/AllegroManager.exe
+/Users/mateuszdrabowicz/Projects/AllegroManager/AllegroManager/bin/Debug/AllegroManager.exe.mdb
+/Users/mateuszdrabowicz/Projects/AllegroManager/AllegroManager/obj/x86/Debug/AllegroManager.exe
+/Users/mateuszdrabowicz/Projects/AllegroManager/AllegroManager/obj/x86/Debug/AllegroManager.exe.mdb
